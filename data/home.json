@@ -1,0 +1,137 @@
+{
+	"hmakeups":[
+	   "src/assets/img/15410605436487.jpg",
+	   "src/assets/img/15410605436487.jpg",
+	   "src/assets/img/15410606967128.jpg",
+	   "src/assets/img/15410607451593.jpg",
+	   "src/assets/img/15421768923261.jpg",
+	   "src/assets/img/15410608903865.jpg",
+	   "src/assets/img/15410609425835.jpg",
+	   "src/assets/img/15410611499999.jpg",
+	   "src/assets/img/15410618074708.jpg",
+	   "src/assets/img/15410624428458.jpg"
+	],
+	"select":[
+	   "src/assets/img/15375569306898.jpg",
+	   "src/assets/img/15423339349731.jpg"
+	],
+	"selects":[
+	   "src/assets/img/15393478525783.jpg",
+	   "src/assets/img/15393479430663.jpg",
+	   "src/assets/img/15393480019249.jpg"
+	],
+	"myselect":[
+	   "src/assets/img/15423520656219.jpg",
+	   "src/assets/img/15423521451577.jpg",
+	   "src/assets/img/15423523404696.jpg"
+	],
+	"newinfo":[
+	   "src/assets/img/15423344292209.gif",
+	   "src/assets/img/15422515600627.jpg",
+	   "src/assets/img/15420171315336.jpg",
+	   "src/assets/img/15422514810565.jpg"
+	],
+	"fashion":[
+	     {
+	     	"hone": [
+	        	"src/assets/img/15267249873620.jpg",
+	        	"src/assets/img/15391634705681.gif",
+	        	"src/assets/img/15423643789566.gif"
+		    ],
+		    "twin": [
+		        "src/assets/img/15423644478351.jpg",
+	        	"src/assets/img/15423644976215.jpg",
+	        	"src/assets/img/15417554408941.jpg"
+		    ],
+		    "hinfo":"今日特卖 · 每天早10点 晚8点上新"
+	     }
+	],
+	"home":[
+	  {
+	  	"picSrc":"src/assets/img/ias_153482223654339_604x290_80.jpg",
+	  	"intro":"1.1折起  康尔馨 洲际酒店授权品牌",
+	  	"restTime":"剩2天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/15423324701549.jpg",
+	  	"intro":"",
+	  	"restTime":""
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154183156959669_604x290_80.jpg",
+	  	"intro":"1.6折起  珀莱雅PROYA化妆品专场",
+	  	"restTime":"剩15小时"
+	  }
+	],
+	"bed":[
+	  {
+	  	"quilt":"src/assets/img/15413877707227.jpg",
+	  	"pillow":[
+	  	       "src/assets/img/15413881508511.gif",
+	  	       "src/assets/img/15413882098561.gif"
+	  	],
+	  	"bag":[
+	  	       "src/assets/img/15413882405905.gif",
+	  	       "src/assets/img/15413882659957.gif",
+	  	       "src/assets/img/15415792981836.gif"
+	  	],
+	  	"lhome":[
+	  	     {
+	  	     	"picSrc": "src/assets/img/ias_153932430755031_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     },
+	  	     {
+	  	     	"picSrc": "src/assets/img/bbff934a2dd9600e4c6bcd9f828d1caf_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     },
+	  	     {
+	  	     	"picSrc": "src/assets/img/ias_154261529624497_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     },
+	  	     {
+	  	     	"picSrc": "src/assets/img/3350ea4c24beef32aa3effecf0f5d2bb_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     },
+	  	     {
+	  	     	"picSrc": "src/assets/img/ias_154270924632789_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     },
+	  	     {
+	  	     	"picSrc": "src/assets/img/ias_154269883646338_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     },
+	  	     {
+	  	     	"picSrc": "src/assets/img/ias_154294407650160_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     },
+	  	     {
+	  	     	"picSrc": "src/assets/img/ias_154261431099859_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     },
+	  	     {
+	  	     	"picSrc": "src/assets/img/ias_153898635960748_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     },
+	  	     {
+	  	     	"picSrc": "src/assets/img/ias_153441567398995_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     },
+	  	     {
+	  	     	"picSrc": "src/assets/img/ias_154224968334773_604x290_80.jpg",
+	  	     	"intro":"2.2折起  梦洁62年匠心家纺专场",
+	  	     	"restTime":"剩19小时"
+	  	     }
+	  	]
+	  }
+	]
+}

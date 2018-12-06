@@ -1,0 +1,101 @@
+{
+    "lifes":[
+	   "src/assets/img/15427136311700.jpg",
+	   "src/assets/img/15427136666357.jpg",
+	   "src/assets/img/15427141163775.jpg",
+	   "src/assets/img/15427142530277.jpg",
+	   "src/assets/img/15427143425633.jpg",
+	   "src/assets/img/15427143874535.jpg",
+	   "src/assets/img/15427144235331.jpg",
+	   "src/assets/img/15427144677993.jpg",
+	   "src/assets/img/15427145097227.jpg",
+	   "src/assets/img/15427145461797.jpg"
+	],
+	"lbuy":[
+	    "src/assets/img/15427146123874.jpg",
+	    "src/assets/img/15427146537418.gif"
+	],
+	"pic":[
+	    "src/assets/img/15342929100068.jpg",
+	    "src/assets/img/15422678891386.gif",
+	    "src/assets/img/15133435835622.jpg"
+	],
+	"life":[
+	  {
+	  	"picSrc":"src/assets/img/ias_154236209276803_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154043212115506_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154218262781562_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_152592255397874_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_153388235332234_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154052311258489_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154174773034565_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154261789529207_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/d3bc090b1dc5f7232757da434c91d4a9_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/c60013de6c27351f01e02ac40eef8755_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_152627032673286_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154259693411931_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154260974988700_604x290_80.jpg",
+	  	"intro":"2.2折  百草味休闲零食专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/7487a4af20090747d57a6ca577c2af63_604x290_80.jpg",
+	  	"intro":"1.8折  拉菲美酒专场",
+	  	"restTime":"剩8天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/5f7d777dc5cf9cb107b5d050f670dac9_604x290_80.jpg",
+	  	"intro":"感恩10年-狠划算-生活超市",
+	  	"restTime":"剩8天"
+	  }
+	  
+	]
+}

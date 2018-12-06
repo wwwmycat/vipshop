@@ -1,0 +1,47 @@
+.mint-swipe-items-wrap{
+	padding-bottom: 40%;
+	height: 0;
+}
+.mint-swipe-indicator{
+	background: gray;
+	opacity: 1;
+	border: 1px solid white;
+}
+.mint-swipe-indicator.is-active{
+	background: black;
+}
+.makelist{
+	width: 100%;
+}
+.makelist li{
+	display: inline-block;
+	width: 20%;
+}
+.details li{
+	margin-bottom: 10px;
+}
+.details p{
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 100%;
+	box-sizing: border-box;
+}
+.details .myinfo{
+	line-height: 2rem;
+}
+.details b{
+	display: inline-block;
+	max-width: 80%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: .9rem;
+}
+.details span{
+	float: right;
+	color: #98989F;
+	font-size: .5rem;
+}
+.center{
+	text-align: center;
+}

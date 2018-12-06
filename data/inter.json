@@ -1,0 +1,80 @@
+{
+	"imakeups":[
+	   "src/assets/img/15410605436487.jpg",
+	   "src/assets/img/15410605436487.jpg",
+	   "src/assets/img/15410606967128.jpg",
+	   "src/assets/img/15410607451593.jpg",
+	   "src/assets/img/15421768923261.jpg",
+	   "src/assets/img/15410608903865.jpg",
+	   "src/assets/img/15410609425835.jpg",
+	   "src/assets/img/15410611499999.jpg",
+	   "src/assets/img/15410618074708.jpg",
+	   "src/assets/img/15410624428458.jpg"
+	],
+	"inters":[
+	  {
+	  	"picSrc":"src/assets/img/ias_154147158453438_604x290_80.jpg",
+	  	"intro":"7.7折起  DINT韩国摩登气质女装专场",
+	  	"restTime":"剩15小时"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_153810467297950_604x290_80.jpg",
+	  	"intro":"3.7折起  华为手机专场",
+	  	"restTime":"剩46天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154183156959669_604x290_80.jpg",
+	  	"intro":"1.6折起  珀莱雅PROYA化妆品专场",
+	  	"restTime":"剩15小时"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154260974988700_604x290_80.jpg",
+	  	"intro":"品类秀-电火锅",
+	  	"restTime":"剩15小时"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_153733894341478_604x290_80.jpg",
+	  	"intro":"3.7折起  华为手机专场",
+	  	"restTime":"剩46天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/566ddf1c89dbe10754c7de68992242ff_604x290_80.jpg",
+	  	"intro":"1.6折起  珀莱雅PROYA化妆品专场",
+	  	"restTime":"剩15小时"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_153786465463586_604x290_80.jpg",
+	  	"intro":"品类秀-电火锅",
+	  	"restTime":"剩15小时"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_153605162271238_604x290_80.jpg",
+	  	"intro":"3.7折起  华为手机专场",
+	  	"restTime":"剩46天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154260733096899_604x290_80.jpg",
+	  	"intro":"1.6折起  珀莱雅PROYA化妆品专场",
+	  	"restTime":"剩15小时"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/15429061923759.jpg",
+	  	"intro":"品类秀-电火锅",
+	  	"restTime":"剩15小时"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_153266330348644_604x290_80.jpg",
+	  	"intro":"3.7折起  华为手机专场",
+	  	"restTime":"剩46天"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154096612476822_604x290_80.jpg",
+	  	"intro":"1.6折起  珀莱雅PROYA化妆品专场",
+	  	"restTime":"剩15小时"
+	  }
+	],
+	"buies":[
+	    "src/assets/img/15409814454350.jpg",
+	    "src/assets/img/15409814454350.jpg"
+	]
+}

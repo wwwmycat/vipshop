@@ -1,0 +1,159 @@
+{	
+    "makeups":[
+	   "src/assets/img/15338200247271.gif",
+	   "src/assets/img/15410605436487.jpg",
+	   "src/assets/img/15410606967128.jpg",
+	   "src/assets/img/15410607451593.jpg",
+	   "src/assets/img/15421768923261.jpg",
+	   "src/assets/img/15410608903865.jpg",
+	   "src/assets/img/15410609425835.jpg",
+	   "src/assets/img/15410611499999.jpg",
+	   "src/assets/img/15410618074708.jpg",
+	   "src/assets/img/15410624428458.jpg"
+	],
+	"makeList":[
+	   "src/assets/img/15391620999502.jpg",
+	   "src/assets/img/15422531656406.gif",
+	   "src/assets/img/15422533069401.gif"
+	],
+	"uplists":[
+	   "src/assets/img/15421991363431.gif",
+	   "src/assets/img/15421991814273.gif",
+	   "src/assets/img/15413839291233.jpg",
+	   "src/assets/img/15413839899777.jpg",
+	   "src/assets/img/15421071977934.jpg",
+	   "src/assets/img/15354432546877.jpg",
+	   "src/assets/img/15354436895973.jpg",
+	   "src/assets/img/15397575623525.gif"
+	],
+	"makes":[
+	   "src/assets/img/15421837267704.jpg",
+	   "src/assets/img/15421837784862.jpg",
+	   "src/assets/img/15421838423895.jpg"
+	],
+	"update":[
+	   "src/assets/img/15421814191924.jpg",
+	   "src/assets/img/15421816485726.jpg",
+	   "src/assets/img/15421923552098.jpg",
+	   "src/assets/img/15421928704795.jpg"
+	],
+	"makesup":[
+	   "src/assets/img/15421929366843.jpg",
+	   "src/assets/img/15421928049240.jpg",
+	   "src/assets/img/15421931347521.jpg"
+	],
+	"details":[
+	  {
+	  	"picSrc":"src/assets/img/ias_154202145061659_604x290_80.jpg",
+	  	"intro":"5.1折起  雅诗兰黛EsteeLauder化妆品专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"",
+	  	"price":""
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154217575050964_604x290_80.jpg",
+	  	"intro":"1.6折起  珀莱雅PROYA化妆品专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"",
+	  	"price":""
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154201628689437_604x290_80.jpg",
+	  	"intro":"1.6折起  珀莱雅PROYA化妆品专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":"购物满指定金额即送相应礼品，数量有限，送完即止"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154097776233895_604x290_80.jpg",
+	  	"intro":"2.1折起  自然堂CHANDO化妆品专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":"购物满指定金额即送相应礼品，数量有限，送完即止"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154279123217567_604x290_80.jpg",
+	  	"intro":"5.1折起  韩束KANS化妆品专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":"会员专享折上9折"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154096146032479_604x290_80.jpg",
+	  	"intro":"1.6折起  韩国吕高端韩方护发专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":"会员专享折上9折"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154284932795847_604x290_80.jpg",
+	  	"intro":"1.6折起  丸美MARUBI护肤专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":"会员专享折上9折"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154261344996858_604x290_80.jpg",
+	  	"intro":"2.1折起  兰蔻Lancome化妆品专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":"会员专享折上9折"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/079a579e256910207cff9ac34e469f47_604x290_80.jpg",
+	  	"intro":"互动有奖",
+	  	"restTime":"剩2天",
+	  	"imgs":"",
+	  	"price":""
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154296123648303_604x290_80.jpg",
+	  	"intro":"1.6折起  膜法世家护肤品专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":"会员专享折上9折"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/15429411895269.gif",
+	  	"intro":"",
+	  	"restTime":"",
+	  	"imgs":"",
+	  	"price":""
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154268692732693_604x290_80.jpg",
+	  	"intro":"2.1折起  佰草集Herborist化妆品专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":"会员专享折上9折"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154286944432603_604x290_80.jpg",
+	  	"intro":"5.1折起  阿芙AFU精油护肤专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":""
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154270328228213_604x290_80.jpg",
+	  	"intro":"4.1折起  美宝莲Maybelline彩妆感恩节专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":" 购物满99/199元即送相应礼品，数量有限，送完即止,会员专享折上9折"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154268745427951_604x290_80.jpg",
+	  	"intro":"0.9折起  御泥坊护肤品专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":"会员专享折上9折"
+	  },
+	  {
+	  	"picSrc":"src/assets/img/ias_154226483725342_604x290_80.jpg",
+	  	"intro":"2.2折起  伊丽莎白雅顿Elizabeth Arden化妆品专场",
+	  	"restTime":"剩2天",
+	  	"imgs":"src/assets/img/icon-pms-11e8ab1678.png",
+	  	"price":"会员专享折上9折"
+	  }
+	]
+}
