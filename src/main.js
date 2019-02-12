@@ -13,8 +13,7 @@ import acc from '../node_modules/mint-ui/lib/style.css'
 import './assets/css/cssreset.css'
 import './assets/css/common.css'
 
-import zepto from 'zepto'
-Vue.use(zepto)
+import $ from 'zepto'
 
 import axios from 'axios'
 Vue.prototype.$http = axios
