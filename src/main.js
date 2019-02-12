@@ -14,6 +14,7 @@ import './assets/css/cssreset.css'
 import './assets/css/common.css'
 
 import zepto from 'zepto'
+Vue.use(zepto)
 
 import axios from 'axios'
 Vue.prototype.$http = axios
